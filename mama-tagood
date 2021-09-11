@@ -1,0 +1,30 @@
+<html leng= " es">
+<html>
+	<head>
+		
+		
+		<link rel="stylesheet" href="style.css" />
+		
+<title>
+	
+	Pagina web prueba
+</title>	
+	<h1><B>MAJOCH SERVICIOS jUEGOS Y SORTEOS</B></h1>
+	
+	<NAV> <B>INTRODUCCION | ENCUENTRA AYUDA  | SISTEMA DE CONTROL | INGRESO A PERSONAL DE LA EMPRESA </B>|</NAV>
+	<hr style= size: "8px"; />
+		
+	<hr><br>lorem20
+	
+	<ol>
+		<li>lorem20
+			
+			</li>
+	</ol>
+	
+	<hr style= size:"8px; color: blue"/>
+	</head>
+	
+	
+	
+</html>
